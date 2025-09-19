@@ -1,0 +1,6 @@
+Linux & macOS:
+chmod +x setup.sh
+./setup.sh
+
+Windows:
+Double click the setup.bat to install the requirements.
